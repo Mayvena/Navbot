@@ -20,3 +20,15 @@ The mapping algorithm will be statistically based, to allow for storing the prob
 ## Stage 2
 
 At this stage the robotics platform will be reingeneered for flight and hover capabilities and the algorithms will be adapted to work in three-dimensional enviroment.
+
+## Reading material
+
+https://create.arduino.cc/projecthub/Isaac100/getting-started-with-the-hc-sr04-ultrasonic-sensor-036380
+https://create.arduino.cc/projecthub/team-diy/arduino-ultrasonic-radar-a7cd97
+https://create.arduino.cc/projecthub/jrance/arduino-obstacle-avoidance-robot-with-ultrasonic-hc-sr04-23035d
+https://create.arduino.cc/projecthub/microlab-greece/arduino-two-ultrasonic-sensor-radar-360-degrees-rotation-de16ae
+https://create.arduino.cc/projecthub/chandran0303cn/obstacle-avoidance-bot-using-ir-sensors-08f8e9
+https://create.arduino.cc/projecthub/Abhinav_Abhi/arduino-lidar-917404
+https://create.arduino.cc/projecthub/faweiz/arduino-radar-69b8fe
+https://create.arduino.cc/projecthub/Satyavrat/ultrasonic-map-maker-using-an-arduino-yun-37c72e
+https://create.arduino.cc/projecthub/TravisLedo/arduino-lidar-scanning-java-rendering-6b2124
