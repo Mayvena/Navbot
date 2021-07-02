@@ -43,3 +43,15 @@ https://create.arduino.cc/projecthub/TravisLedo/arduino-lidar-scanning-java-rend
 
 https://create.arduino.cc/projecthub/lbf20012001/sound-location-finder-92e6b0
 
+https://electronoobs.io/tutorial/48#
+
+https://www.youtube.com/watch?v=zc0YykEFcR8
+
+https://www.instructables.com/How-to-Use-the-RPLIDAR-360-Laser-Scanner-With-Ardu/
+
+https://www.eevblog.com/forum/projects/hobby-lidar-build/msg1567591/
+
+https://www.ardumotive.com/arduino-3d-scanner.html
+
+https://medium.com/robotics-weekends/2d-mapping-using-google-cartographer-and-rplidar-with-raspberry-pi-a94ce11e44c5
+
