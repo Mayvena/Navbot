@@ -11,6 +11,7 @@ Likely features:
 3. wireless communication with base station
 4. probably database for storing mapping data will be integrated in base station. This will allow data requests to be handled by a more powerful CPU.
 5. most, if not all of the hardware will be 3d-printed. 
+6. ROS based
 
 ## Stage 1
 
